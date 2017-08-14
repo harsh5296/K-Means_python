@@ -10,6 +10,8 @@ kmeans.fit(X)
 
 Still, I wanted to code it when I first Learned it during my curriculum.
 
+If you have the data in Text file, Run dat-to_excel.py and it will provide you the csv File.
+
 1. Open k-Copy.py
 2. Feed a csv file and change the name at line 7
 3. Enter the number of clusters 
